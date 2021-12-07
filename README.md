@@ -10,7 +10,7 @@ The first page ask to enter a departement number :
 
 <img width="265" alt="Capture d’écran 2021-12-07 à 22 15 21" src="https://user-images.githubusercontent.com/79853433/145107338-4464c033-101b-469e-a0b4-45de53bea021.png">
 
-when it's done a picker view with the list of all the cities of the department appear : 
+When it's done a pickerView with the list of all the cities of the department appear : 
 
 <img width="265" alt="Capture d’écran 2021-12-07 à 22 16 15" src="https://user-images.githubusercontent.com/79853433/145107450-50049823-79a8-4cda-90b9-e21f72e012bc.png">
 

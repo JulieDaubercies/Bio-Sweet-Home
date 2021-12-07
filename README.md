@@ -4,4 +4,7 @@ An description of my app in private files
 I build, from scratch, an app which allows users to know what kind of acteurs work in organic activities in there city.
 The first page ask to enter a departement number : 
 
-![Capture d’écran 2021-12-07 à 22 07 40](https://user-images.githubusercontent.com/79853433/145106426-7ba4c4d7-d1f0-4a34-b924-aac85af99fb4.png)
+![Capture d’écran 2021-12-07 à 22 09 24](https://user-images.githubusercontent.com/79853433/145106611-190b61da-3cc4-40c2-9968-0bdb2d2b5944.png)
+
+when it's done a picker view with the list of all the cities of a department appear : 
+

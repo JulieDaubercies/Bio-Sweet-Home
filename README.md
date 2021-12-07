@@ -1,7 +1,7 @@
 # LeBioChezMoi
 An description of my app (for the moment in private files)
 
-From scratch, I build an app which allows users to know what kind of acteurs work in organic activities in there city.
+From scratch, I build an app which allows users to know what kind of acteurs work in organic activities in their city.
 The first page ask to enter a departement number : 
 
 <img width="265" alt="Capture d’écran 2021-12-07 à 22 15 21" src="https://user-images.githubusercontent.com/79853433/145107338-4464c033-101b-469e-a0b4-45de53bea021.png">
@@ -13,7 +13,7 @@ when it's done a picker view with the list of all the cities of a department app
 User can make multiple kind of research with the searchBar : 
 - Enter a precise name of city
 - Enter some key word (cities wich contains "Saint" for exemple)
-- A research by postal code
+- Research by postal code
 
 Precise name               |  Key word                 |      Postal code 
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -22,4 +22,14 @@ Precise name               |  Key word                 |      Postal code
 For cities with district, user must choose an district. The app is checking if it is an available district : 
 
 <img width="265" alt="Capture d’écran 2021-12-07 à 22 28 40" src="https://user-images.githubusercontent.com/79853433/145109031-678c1ac2-5453-4f9e-8e5b-c40146c3ec98.png">
+
+
+**The second page**
+
+The second page is a tableView of all entities in the city selected by user (here example of Lyon 5ème)
+
+List for a city            |  SearchBar controller with scope                
+:-------------------------:|:-------------------------:
+<img width="265" alt="Capture d’écran 2021-12-07 à 22 33 45" src="https://user-images.githubusercontent.com/79853433/145109841-ffca7f9e-a9d2-4a83-a8a1-c38cd73cd0b1.png"> | <img width="265" alt="Capture d’écran 2021-12-07 à 22 34 15" src="https://user-images.githubusercontent.com/79853433/145109869-543b3583-9b4d-4001-b545-016a973da6c4.png">
+
 

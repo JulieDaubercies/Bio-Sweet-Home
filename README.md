@@ -24,18 +24,18 @@ For cities with district, user must choose one (app is checking if it is an avai
 
 ## Second page
 
-The second page is a tableView of all entities in the city selected by user (here example of Lyon 5ème)
+The second page is a tableView of all entities in the city selected by user :
 
 List for a city            |  SearchBar controller with scope                
 :-------------------------:|:-------------------------:
-<img width="265" alt="Capture d’écran 2021-12-07 à 22 33 45" src="https://user-images.githubusercontent.com/79853433/145109841-ffca7f9e-a9d2-4a83-a8a1-c38cd73cd0b1.png"> | <img width="265" alt="Capture d’écran 2021-12-07 à 22 34 15" src="https://user-images.githubusercontent.com/79853433/145109869-543b3583-9b4d-4001-b545-016a973da6c4.png">
+<img width="265" alt="Capture d’écran 2022-02-08 à 21 40 33" src="https://user-images.githubusercontent.com/79853433/153073350-ab0fb189-4d7a-404f-8d48-5e308ccb12a8.png"> | <img width="265" alt="Capture d’écran 2022-02-08 à 21 41 31" src="https://user-images.githubusercontent.com/79853433/153073526-cfcf87f4-af18-4899-9a03-180bf86aa9ef.png">
 
 
 ## Third page
 
 When user select an entity in the list, he obtain a detail of the business : 
 
-<img width="265" alt="Capture d’écran 2021-12-07 à 22 40 56" src="https://user-images.githubusercontent.com/79853433/145110666-d3ffc0cd-eef0-4a4d-9b14-30a8707295a3.png">
+<img width="265" alt="Capture d’écran 2022-02-08 à 21 41 53" src="https://user-images.githubusercontent.com/79853433/153073585-6be2ab28-6931-413f-b765-6926029922bb.png">
 
 "Consulter le certificat" button allow user to go on certification organism website and consult the certificate for biological activities of the chosen enterprise.
 

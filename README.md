@@ -6,26 +6,22 @@ The data come from api.gouv.fr and Agence Bio.
 
 ## First page
 
-The first page ask to enter a departement number : 
+The first page ask to enter a departement number. The pickerView display all the cities of the department ask :
 
 <img width="265" alt="Capture d’écran 2022-02-08 à 21 39 02" src="https://user-images.githubusercontent.com/79853433/153072216-483152a7-2144-414e-a87d-58988bf79998.png">
-
-When it's done a pickerView with the list of all the cities of the department appear : 
-
-<img width="265" alt="Capture d’écran 2021-12-07 à 22 16 15" src="https://user-images.githubusercontent.com/79853433/145107450-50049823-79a8-4cda-90b9-e21f72e012bc.png">
 
 User can make multiple kind of research with the searchBar : 
 - Enter a precise name of city
 - Enter some key word (cities wich contains "Saint" for exemple)
 - Research by postal code
 
-Precise name               |  Key word                 |      Postal code 
-:-------------------------:|:-------------------------:|:-------------------------:
-<img width="265" alt="Capture d’écran 2021-12-07 à 22 20 58" src="https://user-images.githubusercontent.com/79853433/145107988-9f5bd301-53fa-442f-94a8-44e9e709dbbb.png"> | <img width="265" alt="Capture d’écran 2021-12-07 à 22 22 34" src="https://user-images.githubusercontent.com/79853433/145108140-ae3acfd3-ba38-4c39-873d-b4d988895f71.png"> | <img width="265" alt="Capture d’écran 2021-12-07 à 22 23 31" src="https://user-images.githubusercontent.com/79853433/145108261-0342b758-2c7a-4c7a-99e3-06c3208e871b.png">
+|  Key word                 |      Postal code 
+|:-------------------------:|:-------------------------:
+<img width="265" alt="Capture d’écran 2022-02-08 à 21 39 38" src="https://user-images.githubusercontent.com/79853433/153072535-fb8fe301-94cd-45a3-8fb5-43c8708fe3e9.png"> | <img width="265" alt="Capture d’écran 2022-02-08 à 21 45 27" src="https://user-images.githubusercontent.com/79853433/153072684-fc03909a-e91d-41b2-8ead-e90a2147b316.png">
 
-For cities with district, user must choose one (app is checking if it is an available district) : 
+For cities with district, user must choose one (app is checking if it is an available district). Note that keyboard is handle for this view :
 
-<img width="265" alt="Capture d’écran 2021-12-07 à 22 28 40" src="https://user-images.githubusercontent.com/79853433/145109031-678c1ac2-5453-4f9e-8e5b-c40146c3ec98.png">
+<img width="265" alt="Capture d’écran 2022-02-08 à 21 40 03" src="https://user-images.githubusercontent.com/79853433/153072781-77ce9f41-cb30-46d1-b992-f9045442129a.png">
 
 ## Second page
 

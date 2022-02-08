@@ -10,14 +10,13 @@ The first page ask to enter a departement number. The pickerView display all the
 
 <img width="265" alt="Capture d’écran 2022-02-08 à 21 39 02" src="https://user-images.githubusercontent.com/79853433/153072216-483152a7-2144-414e-a87d-58988bf79998.png">
 
-User can make multiple kind of research with the searchBar : 
-- Enter a precise name of city
-- Enter some key word (cities wich contains "Saint" for exemple)
+User can make two kinds of research with the searchBar : 
+- Enter key word
 - Research by postal code
 
-|  Key word                 |      Postal code 
-|:-------------------------:|:-------------------------:
-<img width="265" alt="Capture d’écran 2022-02-08 à 21 39 38" src="https://user-images.githubusercontent.com/79853433/153072535-fb8fe301-94cd-45a3-8fb5-43c8708fe3e9.png"> | <img width="265" alt="Capture d’écran 2022-02-08 à 21 45 27" src="https://user-images.githubusercontent.com/79853433/153072684-fc03909a-e91d-41b2-8ead-e90a2147b316.png">
+|  Key word                 |      Postal code          |        No result
+|:-------------------------:|:-------------------------:|:-------------------------:
+<img width="265" alt="Capture d’écran 2022-02-08 à 21 39 38" src="https://user-images.githubusercontent.com/79853433/153072535-fb8fe301-94cd-45a3-8fb5-43c8708fe3e9.png"> | <img width="265" alt="Capture d’écran 2022-02-08 à 21 45 27" src="https://user-images.githubusercontent.com/79853433/153072684-fc03909a-e91d-41b2-8ead-e90a2147b316.png"> | <img width="265" alt="Capture d’écran 2022-02-08 à 21 49 00" src="https://user-images.githubusercontent.com/79853433/153073160-2a022ff5-e819-4f3f-947e-de80b5c01af1.png">
 
 For cities with district, user must choose one (app is checking if it is an available district). Note that keyboard is handle for this view :
 

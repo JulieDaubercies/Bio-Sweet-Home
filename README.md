@@ -6,7 +6,7 @@ The data come from api.gouv.fr and Agence Bio.
 
 ## First page
 
-The first page ask to enter a departement number. The pickerView display all the cities of the department ask :
+The first page ask to enter a departement number. The pickerView display all the cities of the department ask (by default department is 13) :
 
 <img width="265" alt="Capture d’écran 2022-02-08 à 21 39 02" src="https://user-images.githubusercontent.com/79853433/153072216-483152a7-2144-414e-a87d-58988bf79998.png">
 

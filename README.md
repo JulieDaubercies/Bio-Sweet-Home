@@ -26,9 +26,10 @@ For cities with district, user must choose one (app is checking if it is an avai
 
 The second page is a tableView of all entities in the city selected by user :
 
-List for a city            |  SearchBar controller with scope                
-:-------------------------:|:-------------------------:
-<img width="265" alt="Capture d’écran 2022-02-08 à 21 40 33" src="https://user-images.githubusercontent.com/79853433/153073350-ab0fb189-4d7a-404f-8d48-5e308ccb12a8.png"> | <img width="265" alt="Capture d’écran 2022-02-08 à 21 41 31" src="https://user-images.githubusercontent.com/79853433/153073526-cfcf87f4-af18-4899-9a03-180bf86aa9ef.png">
+List for a city            |  SearchBar controller with scope | TableRow with large title               
+:-------------------------:|:-------------------------:|:-------------------------:
+<img width="265" alt="Capture d’écran 2022-02-08 à 21 40 33" src="https://user-images.githubusercontent.com/79853433/153073350-ab0fb189-4d7a-404f-8d48-5e308ccb12a8.png"> | <img width="265" alt="Capture d’écran 2022-02-08 à 21 41 31" src="https://user-images.githubusercontent.com/79853433/153073526-cfcf87f4-af18-4899-9a03-180bf86aa9ef.png">. | <img width="265" alt="Capture d’écran 2022-02-08 à 22 05 44" src="https://user-images.githubusercontent.com/79853433/153075563-b03798e4-bfcd-4198-b757-6cbc42144c4e.png">
+
 
 
 ## Third page

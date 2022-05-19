@@ -1,5 +1,5 @@
 # Bio Sweet Home
-An description of my app (for the moment in private files)
+An description of my app
 
 From scratch, I build an app which allows users to know what kind of acteurs work in organic activities in their city.
 The data come from api.gouv.fr and Agence Bio.
